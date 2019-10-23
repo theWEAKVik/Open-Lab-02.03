@@ -10,4 +10,5 @@
 7. Send link to your repository for Lab Master (in #slack) to check it.
 
 Hint:
-* dividend - delenec  divisor - deliteľ
+* dividend - delenec
+* divisor  - deliteľ

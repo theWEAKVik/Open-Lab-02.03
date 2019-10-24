@@ -23,7 +23,7 @@ namespace Open_Lab_02._03
         [TestCase(-9, 15, -9)]
         [TestCaseSource(nameof(GetRandom))]
         public void Remainder(int dividend, int divisor, int quotient) =>
-            Assert.AreEqual(quotient, calculator.Remainder(dividend, divisor));
+            Assert.That(calculator.Remainder(dividend, divisor), Is.EqualTo(quotient));
 
         private static IEnumerable GetRandom()
         {

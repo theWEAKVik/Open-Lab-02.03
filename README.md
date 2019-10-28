@@ -1,7 +1,7 @@
 # Open-Lab-02.03
 (5 XP) A function that returns the remainder of two numbers.
 
-1. Clone this repository to your GitHub account.
+1. Fork this repository to your GitHub account.
 2. Open solution file in Visual Studio.
 3. Open file `Calculator.cs`.
 4. Implement the method `Remainder(int dividend, int divisor)` that returns the remainder of two numbers.
